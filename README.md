@@ -34,4 +34,4 @@ https://github.com/user-attachments/assets/9f444b4f-133a-4827-b6c1-267d23b8b8fe?
 
 Select a line of code and press <kbd>Control</kbd> + <kbd>m</kbd> to format it as multiline code.
 
-https://github.com/user-attachments/assets/bcee662f-4213-41f8-befe-daa3b315b31e
+https://github.com/user-attachments/assets/bcee662f-4213-41f8-befe-daa3b315b31e?title=Format%20to%20Multiple%20Lines&rehype=video
