@@ -35,3 +35,9 @@ https://github.com/user-attachments/assets/9f444b4f-133a-4827-b6c1-267d23b8b8fe?
 选中一行代码，使用快捷键 <kbd>Control</kbd> + <kbd>m</kbd> 格式化为多行代码
 
 https://github.com/user-attachments/assets/bcee662f-4213-41f8-befe-daa3b315b31e?title=格式化为多行&rehype=video
+
+### 💡 上/下移动一行或者多行代码
+
+移动选择的多行代码，或者移动光标所在行的代码，上移代码：<kbd>Cmd</kbd> + <kbd>Option</kbd> + <kbd>[</kbd>，下移代码：<kbd>Cmd</kbd> + <kbd>Option</kbd> + <kbd>]</kbd> 
+
+https://github.com/user-attachments/assets/c27fd9ac-c1f2-4270-82b2-c43f8dc8def5?title=移动一行或者多行代码&rehype=video

@@ -35,3 +35,9 @@ https://github.com/user-attachments/assets/9f444b4f-133a-4827-b6c1-267d23b8b8fe?
 Select a line of code and press <kbd>Control</kbd> + <kbd>m</kbd> to format it as multiline code.
 
 https://github.com/user-attachments/assets/bcee662f-4213-41f8-befe-daa3b315b31e?title=Format%20to%20Multiple%20Lines&rehype=video
+
+### 💡 Move a line or multiple lines of code up/down
+
+Move selected multiple lines of code or the line where the cursor is located. Move code up: <kbd>Cmd</kbd> + <kbd>Option</kbd> + <kbd>[</kbd>, Move code down: <kbd>Cmd</kbd> + <kbd>Option</kbd> + <kbd>]</kbd>
+
+https://github.com/user-attachments/assets/c27fd9ac-c1f2-4270-82b2-c43f8dc8def5?title=Move%20a%20line%20or%20multiple%20lines%20of%20code&rehype=video
