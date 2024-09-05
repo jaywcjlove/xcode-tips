@@ -5,6 +5,7 @@
   <br />
   <img src="https://github.com/user-attachments/assets/c77fcbc2-58d5-4538-bc12-cc148343a554" alt="Xcode Tips" width="160" height="160">
   <h3>Xcode Tips</h3>
+  <p>将我在 <a href="https://x.com/jaywcjlove">x</a> 上分享的 Xcode 技巧合集在这里存档</p>
   <br />
   <br />
   <br />
