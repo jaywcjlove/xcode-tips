@@ -29,3 +29,9 @@ https://github.com/user-attachments/assets/a96a54ac-ec6a-4f22-b2b2-50a6a1c38b76?
 鼠标选中一段视图代码，鼠标右键唤出菜单，选择 `Refactor` -> `Extract to Methoad` 生成函数编辑函数名称
 
 https://github.com/user-attachments/assets/9f444b4f-133a-4827-b6c1-267d23b8b8fe?title=代码片段生成函数&rehype=video
+
+### 💡 格式化为多行
+
+选中一行代码，使用快捷键 <kbd>Control</kbd> + <kbd>m</kbd> 格式化为多行代码
+
+https://github.com/user-attachments/assets/bcee662f-4213-41f8-befe-daa3b315b31e?title=格式化为多行&rehype=video

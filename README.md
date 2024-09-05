@@ -29,3 +29,9 @@ https://github.com/user-attachments/assets/a96a54ac-ec6a-4f22-b2b2-50a6a1c38b76?
 Select a piece of view code with your mouse, right-click to open the menu, and choose `Refactor` -> `Extract to Method` to generate a function and edit the function name.
 
 https://github.com/user-attachments/assets/9f444b4f-133a-4827-b6c1-267d23b8b8fe?title=Code%20Snippet%20Generation%20Function&rehype=video
+
+### 💡 Format to Multiple Lines
+
+Select a line of code and press <kbd>Control</kbd> + <kbd>m</kbd> to format it as multiline code.
+
+https://github.com/user-attachments/assets/bcee662f-4213-41f8-befe-daa3b315b31e
