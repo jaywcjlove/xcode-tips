@@ -33,6 +33,8 @@ jobs:
             About: 
               url: https://wangchujiang.com/#/about
               target: __blank
+          sideEffectFiles:
+            - README.zh.md
           footer: |
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
             <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> • 

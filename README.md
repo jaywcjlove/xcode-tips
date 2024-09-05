@@ -1,3 +1,5 @@
+[简体中文](README.zh.md) 
+
 <div align="center">
   <br />
   <br />
@@ -9,14 +11,14 @@
   <!--rehype:style=border: 0;-->
 </div>
 
-💡 **切换编辑窗口**：快捷键 <kbd>⌘</kbd> + <kbd>J</kbd> 配合剪头键 <kbd>◀</kbd><kbd>▲</kbd><kbd>▼</kbd><kbd>▶</kbd> 切换编辑窗口
+💡 **Switch Edit Window**: Use the shortcut <kbd>⌘</kbd> + <kbd>J</kbd> along with the arrow keys <kbd>◀</kbd><kbd>▲</kbd><kbd>▼</kbd><kbd>▶</kbd> to switch between edit windows.
 
-https://github.com/user-attachments/assets/0d808e2e-84c7-46ca-a220-440fa9f34118?title=切换编辑窗口&rehype=video
+https://github.com/user-attachments/assets/0d808e2e-84c7-46ca-a220-440fa9f34118?title=Switch%20Edit%20Window&rehype=video
 
-💡 **代码快速导航**：将鼠标悬停在小地图上时按住 <kbd>⌘</kbd> 会显示所有方法变量名的索引，您可以快速导航到它们
+💡 **Quick Code Navigation**: Hover over the minimap and hold <kbd>⌘</kbd> to display an index of all method and variable names, allowing quick navigation to them.
 
-https://github.com/user-attachments/assets/a96a54ac-ec6a-4f22-b2b2-50a6a1c38b76?title=代码快速导航&rehype=video
+https://github.com/user-attachments/assets/a96a54ac-ec6a-4f22-b2b2-50a6a1c38b76?title=Quick%20Code%20Navigation&rehype=video
 
-💡 **代码片段生成函数**：鼠标选中一段视图代码，鼠标右键唤出菜单，选择 `Refactor` -> `Extract to Methoad` 生成函数编辑函数名称
+💡 **Code Snippet Generation Function**: Select a piece of view code with your mouse, right-click to open the menu, and choose `Refactor` -> `Extract to Method` to generate a function and edit the function name.
 
-https://github.com/user-attachments/assets/9f444b4f-133a-4827-b6c1-267d23b8b8fe?title=代码片段生成函数&rehype=video
+https://github.com/user-attachments/assets/9f444b4f-133a-4827-b6c1-267d23b8b8fe?title=Code%20Snippet%20Generation%20Function&rehype=video
