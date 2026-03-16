@@ -6,12 +6,22 @@
   <img src="https://github.com/user-attachments/assets/c77fcbc2-58d5-4538-bc12-cc148343a554" alt="Xcode Tips" width="160" height="160">
   <h3>Xcode Tips</h3>
   <p>Archive of the collection of Xcode tips I shared on <a href="https://x.com/jaywcjlove">x</a></p>
-  <br />
   <!--rehype:style=border: 0;-->
+  
+  <p style="display: inline_block">
+    <a target="_blank" href="https://jaywcjlove.github.io/#/sponsor" title="Buy me a coffee">
+      <img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black">
+    </a>
+    <a target="_blank" href="https://x.com/jaywcjlove" title="Follow On X">
+      <img alt="Follow On X" src="https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white">
+    </a>
+  </p>
   
   ✦ My [macOS/iOS](https://wangchujiang.com/#app) application ✦
   
   <p style="display: inline_block">
+    <a target="_blank" href="https://apps.apple.com/app/6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" width="52" src="https://wangchujiang.com/appicon/scap.png"></a>
+    <a target="_blank" href="https://apps.apple.com/app/6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" width="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
     <a target="_blank" href="https://apps.apple.com/app/Deskmark/6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" width="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
     <a target="_blank" href="https://apps.apple.com/app/Keyzer/6500434773" title="Keyzer for macOS"><img alt="Keyzer" height="52" width="52" src="https://wangchujiang.com/appicon/keyzer.png"></a>
     <a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img alt="Vidwall Hub" height="52" width="52" src="https://wangchujiang.com/appicon/vidwall-hub.png"></a>
