@@ -11,6 +11,16 @@
   <br />
   <!--rehype:style=border: 0;-->
   
+  <p style="display: inline_block">
+    <a target="_blank" href="https://jaywcjlove.github.io/#/sponsor" title="Buy me a coffee">
+      <img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black">
+    </a>
+    <a target="_blank" href="https://x.com/jaywcjlove" title="Follow On X">
+      <img alt="Follow On X" src="https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white">
+    </a>
+    <img src="https://img.shields.io/badge/macOS-26%2B-363b44?logo=apple&logoColor=white" alt="macOS 14+" />
+  </p>
+  
   ✦ 我的 [macOS/iOS](https://wangchujiang.com/#app) 应用 ✦
   
   <p style="display: inline_block">

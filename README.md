@@ -15,6 +15,7 @@
     <a target="_blank" href="https://x.com/jaywcjlove" title="Follow On X">
       <img alt="Follow On X" src="https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white">
     </a>
+    <img src="https://img.shields.io/badge/macOS-26%2B-363b44?logo=apple&logoColor=white" alt="macOS 14+" />
   </p>
   
   ✦ My [macOS/iOS](https://wangchujiang.com/#app) application ✦
